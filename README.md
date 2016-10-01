@@ -1,0 +1,2 @@
+# JavaSpring
+mvn install
