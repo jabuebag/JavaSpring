@@ -17,7 +17,6 @@ import java.util.concurrent.atomic.AtomicLong;
  * Created by Kris on 2016-10-01.
  */
 @RestController
-@EnableAutoConfiguration
 public class GreetingController {
 
     @Autowired
